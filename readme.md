@@ -132,10 +132,7 @@ Customers without technical support are more likely to churn.
 # 📊 Dashboard Preview
 
 
-
-```
 ![alt text](image.png)
-```
 
 ---
 
